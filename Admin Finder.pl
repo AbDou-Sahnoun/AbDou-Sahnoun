@@ -11,11 +11,8 @@ system('Admin Control Panel Finder v1.0');
 system "color 0a";
 print"\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
-print "\t> [!]Admin Control Panel Finder v1.0                 >\n";
-print "\t>                [!]Develope By Appo                 >\n";
-print "\t>       ======================================       >\n";
-print "\t> [!]Please Visite ==> www[dot]appo[dot]pro          >\n";
-print "\t> [!]Contact Us ==> appo[@]fastmail[dot]fm           >\n";
+print "\t>      Admin Control Panel Finder v1.0               >\n";
+print "\t>        [!]Develope By AbDou Sahnoun                >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
