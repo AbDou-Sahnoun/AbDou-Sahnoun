@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#GS-Dorker | Coded By Fallag Gassrini | Tunisian Fallaga Team
+
 
 use if $^O eq "MSWin32", Win32::Console::ANSI;
 use LWP::UserAgent;
@@ -48,7 +48,7 @@ print q(
 print color('reset');
 print "                       ";
 print colored ("[ X Attacker v2.1 ]",'white on_red');  
-print colored ("[ Coded By Mohamed Riahi ]\n",'white on_red');
+print colored ("[ Coded By X-VirusDz ]\n",'white on_red');
 print "                           ";
 print colored ("[ Start At $datetime ]",'white on_red'),"\n\n";
 
