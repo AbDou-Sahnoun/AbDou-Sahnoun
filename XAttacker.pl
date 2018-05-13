@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#Coded By Mohamed Riahi 10/10/2017
+#Coded By X-VirusDz 10/10/2017
 #don't Change my Rights
 
 use if $^O eq "MSWin32", Win32::Console::ANSI;
